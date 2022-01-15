@@ -4,3 +4,5 @@ model
 par_optim_info
 *.txt
 .ipynb_checkpoints/
+
+dataTPC
